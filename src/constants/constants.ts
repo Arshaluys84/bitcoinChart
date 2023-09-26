@@ -1,0 +1,1 @@
+export const BASEURL = 'https://api.coindesk.com/v1/bpi/currentprice.json'
